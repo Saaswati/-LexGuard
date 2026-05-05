@@ -60,7 +60,11 @@ python lexguard_cells.py
 - Legal Entity Distribution
 - Attention Heatmaps
 - ROUGE Score Comparison
+  
 
 ## Author
 
-**Saaswati Chinni** — B.Tech CSE AI/ML | Lovely Professional University
+**Saaswati Chinni** 
+
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red)](https://lexguard-saaswati.streamlit.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/saaswatichinni/lexguard)
